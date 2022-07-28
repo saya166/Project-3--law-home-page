@@ -1,4 +1,4 @@
-# **PROJECT1 - Law Home Page**
+# **PROJECT3 - Law Home Page**
 
 - ## _`: By Sayali Patil`_
 
