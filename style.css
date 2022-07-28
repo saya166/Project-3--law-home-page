@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@300&family=Black+Han+Sans&family=Encode+Sans&family=Francois+One&family=Kaushan+Script&family=Merriweather+Sans:wght@800&family=Orbitron:wght@500;900&family=Roboto:wght@100;300;500&family=Shadows+Into+Light&family=Signika:wght@500;700&family=Varela&family=Volkhov:wght@700&display=swap");
+body {
+  background-color: #2d342a;
+}
+.logo {
+  margin-top: 20px;
+  height: 40px;
+  margin-left: 40px;
+}
+.justice {
+  height: 259px;
+  width: 1275px;
+  margin-left: -5px;
+}
+.list {
+  text-align: center;
+  margin-top: -45px;
+}
+.list1 {
+  display: inline-block;
+  padding: 10px 30px;
+  color: white;
+  font-family: "Roboto";
+}
+.button-small {
+  float: right;
+  margin-top: -55px;
+  margin-right: 90px;
+  padding: 10px 10px;
+  width: 150px;
+  color: #edc126;
+  border: 1px solid #edc126;
+  background: transparent;
+  border-radius: 0.8rem;
+  font-size: 15px;
+}
+.hero {
+  margin-top: 110px;
+}
+.hero-heading {
+  color: white;
+  font-family: "Roboto";
+  font-size: 50px;
+  width: 400px;
+  margin-left: 40px;
+  letter-spacing: 2px;
+}
+.para {
+  float: right;
+  margin-top: -150px;
+  margin-right: 300px;
+  color: rgb(169, 170, 171);
+  font-family: "roboto";
+}
